@@ -10,3 +10,23 @@ p.lead span {
 .steamcta {
     margin-top: 30px;
 }
+
+a.btn.btn-lg.btn-border-white.buybutton {
+	padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+a.btn.btn-lg.btn-border-white.buybutton:hover {
+	color: #333;
+    border-color: #fff;
+    background-color: #fff;
+}
+
+.introtext {
+	padding-top: 25px;
+	margin-bottom:15px;
+}
