@@ -86,8 +86,11 @@ a.btn.btn-lg.btn-border-white.buybutton:hover {
 	    height: 100vh; 
 	}
 
-	section#highlights {
+	section#gamedynamics {
     text-align: center;
+    background-repeat: repeat;
+	background-size: cover;
+	height: auto; 
 	}
 
 	.testimonials {
