@@ -55,3 +55,27 @@ a.btn.btn-lg.btn-border-white.buybutton:hover {
 	background-repeat: no-repeat;
 	background-position: center top;
 }
+
+#home {
+	background-repeat: no-repeat;
+}
+
+@media(max-width:420px){
+	#home {
+		background-repeat: no-repeat;
+		background-size: cover;
+	    height: 100vh; 
+	}
+
+	section#highlights {
+    text-align: center;
+	}
+
+	.testimonials {
+		background-repeat: no-repeat;
+		background-size: cover;
+	    height: 70vh; 
+	}
+
+
+}
