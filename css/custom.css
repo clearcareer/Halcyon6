@@ -38,5 +38,20 @@ a.btn.btn-lg.btn-border-white.buybutton:hover {
 }
 
 .modal-content {
-	
+
+}
+
+.cta-3 {
+	background-color: #222;
+}
+
+.fun-facts {
+	background:none;
+	background-color: #25CBF5;
+}
+
+.testimonials {
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center top;
 }
