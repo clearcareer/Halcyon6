@@ -30,3 +30,9 @@ a.btn.btn-lg.btn-border-white.buybutton:hover {
 	padding-top: 25px;
 	margin-bottom:15px;
 }
+
+.steambuybutton {
+    background-color: #25CBF5;
+    color: #fff;
+    border-color: #25CBF5;
+}
